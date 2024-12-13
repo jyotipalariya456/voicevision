@@ -1,8 +1,8 @@
-torch
-transformers
-diffusers
+torch        # nlp genrative model
+transformers      #text classification ,translation and summarization
+diffusers         
 speechrecognition
-pydub
-accelerate
+pydub         #audio file processing
+accelerate    #multiple devices
 pyaudio
 streamlit
